@@ -1,0 +1,10 @@
+#EventContainter{
+    display: flex;
+    flex-direction: column;
+}
+.event{  
+  padding: 10px;
+  margin: 5px;
+  background-color: lightgray;
+  cursor: grab;
+}
